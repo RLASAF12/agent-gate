@@ -1,3 +1,5 @@
+> **Archived.** This repo moved to [RLASAF12/agent-guardrails](https://github.com/RLASAF12/agent-guardrails/tree/main/agent-gate) (folder `agent-gate/`, full history preserved). Archived 2026-10-04.
+
 # AgentGate 🔐
 
 **MCP Tool Approval Gateway — pause any agent tool call for human review**
